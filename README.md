@@ -1,2 +1,2 @@
 # HW3
-![screen](C:\Users\nadez\OneDrive\Рабочий стол)
+![screen](https://a.radikal.ru/a20/1903/47/a8c25d6e45cd.jpg)
