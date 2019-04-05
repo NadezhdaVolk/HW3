@@ -8,3 +8,15 @@
 4. Конкордансы устаревших слов
 
 ![screen](https://github.com/NadezhdaVolk/HW3/blob/master/4.%20Конкорданс%20-%20глас.PNG)
+
+![screen](https://github.com/NadezhdaVolk/HW3/blob/master/4.%20Конкорданс%20-%20зреть.PNG)
+
+![screen](https://github.com/NadezhdaVolk/HW3/blob/master/4.%20Конкорданс%20-%20око.PNG)
+
+5. Частотные списки двух-, трёх-, четырёхсловных сочетаний
+
+![screen](https://github.com/NadezhdaVolk/HW3/blob/master/5.%20Двухсловные%20сочетания.PNG)
+
+![screen](https://github.com/NadezhdaVolk/HW3/blob/master/5.%20Трёхсловные%20сочетания.PNG)
+
+![screen](https://github.com/NadezhdaVolk/HW3/blob/master/5.%20Четырёхсловные%20сочетания.PNG)
