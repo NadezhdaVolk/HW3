@@ -20,3 +20,11 @@
 ![screen](https://github.com/NadezhdaVolk/HW3/blob/master/5.%20Трёхсловные%20сочетания.PNG)
 
 ![screen](https://github.com/NadezhdaVolk/HW3/blob/master/5.%20Четырёхсловные%20сочетания.PNG)
+
+6. Список коллокатов
+
+![screen](https://github.com/NadezhdaVolk/HW3/blob/master/6.%20Коллокаты.PNG)
+
+**Google Ngrams и НКРЯ**
+
+1. 
